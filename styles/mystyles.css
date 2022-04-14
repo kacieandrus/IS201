@@ -1,0 +1,28 @@
+body {
+    background-color: aliceblue;
+}
+  .link
+  {text-decoration: underline;
+    color: blue;
+    size: 10px;
+    text-align: center;
+  }
+
+  .copyright{
+      color: gray;
+      font-style: italic;
+      font-style: bold;
+    font-weight: bold;
+  }
+
+  .resume {
+      font-family: sans-serif;
+      font-weight: bold;
+      color: #111;
+      text-decoration: unset
+  }
+.resume1 {
+    font-family:sans-serif ;
+    font-style: italic;
+    color:#111;
+    font-feature-settings: "abvf";}
